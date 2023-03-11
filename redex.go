@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/IceFireDB/redhub/pkg/resp"
+	"github.com/cloudxaas/redex/pkg/resp"
 	"github.com/panjf2000/gnet"
 )
 
