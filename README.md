@@ -5,6 +5,12 @@
  * @LastEditTime: 2021-09-27 11:18:10
  * @FilePath: /redhub/README.md
 -->
+
+We will replace redhub epoll model in future with
+https://github.com/pawelgaczynski/gain
+
+seeking to make this the fastest redis server in golang in the world.
+
 <p align="center">
     <img 
         src="https://user-images.githubusercontent.com/12872991/134626503-c022bb8e-2d5c-4760-a470-f56ff8ef036f.png" 
