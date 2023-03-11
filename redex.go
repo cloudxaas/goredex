@@ -1,4 +1,4 @@
-package redhub
+package redex
 
 import (
 	"bytes"
