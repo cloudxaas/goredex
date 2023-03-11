@@ -10,8 +10,8 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/IceFireDB/redhub"
-	"github.com/IceFireDB/redhub/pkg/resp"
+	"github.com/cloudxaas/redex"
+	"github.com/cloudxaas/redex/pkg/resp"
 )
 
 func main() {
