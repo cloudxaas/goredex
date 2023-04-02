@@ -1,11 +1,11 @@
-package redex
+package cxredex
 
 import (
 	"bytes"
 	"sync"
 	"time"
 
-	"github.com/cloudxaas/redex/pkg/resp"
+	"github.com/cloudxaas/goredex/pkg/resp"
 	"github.com/panjf2000/gnet"
 )
 
