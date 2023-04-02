@@ -79,7 +79,7 @@ type Options struct {
 	Codec gnet.ICodec
 }
 
-func NewRedHub(
+func NewRedex(
 	onOpened func(c *Conn) (out []byte, action Action),
 	onClosed func(c *Conn, err error) (action Action),
 	handler func(cmd resp.Command, out []byte) ([]byte, Action),
